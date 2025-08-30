@@ -2,6 +2,8 @@
 
 A seamless Google Lens image search workflow for [Alfred](https://alfred.app/). You can search via screenshot or selected images. The results will be displayed in your browser.
 
+Capture a screenshot with the keyword `lens`. Search an image via [Universal Actions](https://www.alfredapp.com/help/features/universal-actions/) keyword `Google Lens`. 
+
 ## Installation
 
 [⤓ Download](https://github.com/svenko99/alfred-google-lens/releases/latest/download/Google.Lens.alfredworkflow) the workflow from the repository.
